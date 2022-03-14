@@ -28,6 +28,8 @@
         'views/views.xml',
         'views/templates.xml',
         'views/menu_views.xml',
+        'views/booking_order.xml',
+        'views/service_team.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
